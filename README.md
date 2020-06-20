@@ -1,2 +1,3 @@
-# menuchallenge
-Código que se modificará para la app del challenge
+# Proyecto de componentes
+
+Segundo ejercicio del curso de Flutter
